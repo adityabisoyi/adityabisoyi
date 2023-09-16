@@ -82,6 +82,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=pink)](https://www.instagram.com/its_me_adi.___)
 [![LinkedIn](	https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/aditya-bisoyi-903a82223)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=light-blue)](https://twitter.com/AdityaBisoyi15)
-[![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=red)](adibisoyi01@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=red)](mailto:adibisoyi01@gmail.com)
 
 <br>
