@@ -1,6 +1,6 @@
 [![MasterHead](./coding2.gif)](https://github.com/adityabisoyi)
 
-<h4 align="center">I am a 4th Year Student at Pimpri Chinchwad College of Engineering pursuing B.Tech in CSE. I'm a passionate developer, learner, and explorer. I love to build and experiment with new technologies. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills.</h4>
+<h4 align="left">I am a 4th Year Student at Pimpri Chinchwad College of Engineering pursuing B.Tech in CSE. I'm a passionate developer, learner, and explorer. I love to build and experiment with new technologies. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills.</h4>
 <br>
 
 
@@ -64,19 +64,23 @@
 ## Github Statistics 
 <br>
 
-|_**Github Stats**_|_**Top Languages**_|
-|-----------|-------------|
-|[![Aditys's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityabisoyi&show_icons=true&theme=aura)](https://github.com/adityabisoyi)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityabisoyi&layout=compact&theme=aura)](https://github.com/adityabisoyi)|
+[![Aditys's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityabisoyi&show_icons=true&theme=aura&rank_icon=github)](https://github.com/adityabisoyi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityabisoyi&langs_count=6&layout=compact&theme=aura)](https://github.com/adityabisoyi)
 
+<div align="left">
 
+- 🔭 I’m currently working on **CryptoMarket**
+
+- 🌱 I’m currently learning **Kotlin, Android Development, React.js, Node.js**
+
+</div>
+<br>
 
 ## Contact Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=pink)]()
-[![LinkedIn](	https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue)]()
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=light-blue)]()
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=pink)](https://www.instagram.com/its_me_adi.___)
+[![LinkedIn](	https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/aditya-bisoyi-903a82223)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=light-blue)](https://twitter.com/AdityaBisoyi15)
+[![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=red)](adibisoyi01@gmail.com)
 
 <br>
-<br><br>
-<img width="120%" src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572">
-</p>
