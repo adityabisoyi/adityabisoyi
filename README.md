@@ -1,8 +1,9 @@
 [![MasterHead](./gif4.gif)](https://github.com/adityabisoyi)
 
-<h4 align="left">I am a 4th Year Student at Pimpri Chinchwad College of Engineering pursuing B.Tech in CSE. I'm a passionate developer, learner, and explorer. I love to build and experiment with new technologies. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills.</h4>
-<br>
+<h4>👋 Welcome to my corner of the digital realm, where code is my canvas, and bugs are my puzzle pieces. 🚀
+</h4>
 
+<h4 align="left">I am a Final Year Student at Pimpri Chinchwad College of Engineering pursuing B.Tech in CSE. I'm a passionate developer, learner, and explorer. I love to build and experiment with new technologies. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills.</h4>
 
 <br>
 
@@ -70,9 +71,9 @@
 
 <div align="left">
 
-- 🔭 I’m currently working on **CryptoMarket**
+- 🔭 I’m currently working on **CryptoMarket** and **Expense Tracker**
 
-- 🌱 I’m currently learning **Kotlin, Android Development, React.js, Node.js**
+- 🌱 I’m currently learning **Flutter, Dart, Android Development and Node.js**
 
 </div>
 <br>
