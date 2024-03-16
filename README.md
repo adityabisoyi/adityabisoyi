@@ -3,7 +3,7 @@
 <h4>👋 Welcome to my corner of the digital realm, where code is my canvas, and bugs are my puzzle pieces. 🚀
 </h4>
 
-<h4 align="left">I am a Final Year Student at Pimpri Chinchwad College of Engineering pursuing B.Tech in CSE. I'm a passionate developer, learner, and explorer. I love to build and experiment with new technologies. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills.</h4>
+<h4 align="left">I'm a passionate developer, learner, and explorer. I love to build and experiment with new technologies. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills.</h4>
 
 <br>
 
@@ -31,12 +31,11 @@
 
 ## Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
 <br>
@@ -46,6 +45,7 @@
 ![IntelliJ Idea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 <br>
 
